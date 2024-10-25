@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-style{
+    @apply border-2 border-slate-400 text-center rounded-sm px-12 py-2 text-2xl;
+}
+
+.btn-style{
+    @apply rounded-full border-gray-500 border-2 px-4 py-2 hover:bg-gray-500 text-2xl;
+}

@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* app.css */
+.btn-custom {
+    @apply text-white m-auto py-2 px-5 rounded-full shadow-md ;
+  }
+  
+  
